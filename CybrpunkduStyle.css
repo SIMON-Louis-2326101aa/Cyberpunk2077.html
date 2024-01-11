@@ -1,0 +1,18 @@
+header{
+	height : 20%;
+	position:fixed;
+	background-color: black;
+	width: 20%;
+}
+body{
+	width: 80%;
+	margin: 10;
+	height: 80%;
+    color : lime;
+    background-image:  url("./Samurail77.gif");
+	text-align : justify;
+}
+a{color : blue;}
+nav{
+	color: white;
+}
