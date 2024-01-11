@@ -17,10 +17,14 @@ nav{
 	color: white;
 }
 img{
-	width: 80%;
-	position: center;
+	margin: 0 auto;
+	width: 70%;
+	display: flex;
+	justify-content: center;
 }
 video{
-	width: 80%;
-	position: center;
+	margin: 0 auto;
+	width: 70%;
+	display: flex;
+	justify-content: center;
 }
