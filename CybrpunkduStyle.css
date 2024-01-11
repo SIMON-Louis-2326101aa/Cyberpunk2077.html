@@ -18,4 +18,9 @@ nav{
 }
 img{
 	width: 80%;
+	position: center;
+}
+video{
+	width: 80%;
+	position: center;
 }
