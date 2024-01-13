@@ -1,6 +1,7 @@
 header{
 	height : 10%;
-	position: top: 0px left: 0px;
+	position: top: 0px;
+	position: left: 0px;
 	background-color: transparent;
 	width: 8%;
 }
