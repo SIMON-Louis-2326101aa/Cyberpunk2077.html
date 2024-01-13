@@ -1,7 +1,5 @@
 header{
 	height : 10%;
-	top: 0px;
-	left: 0px;
 	background-color: transparent;
 	width: 8%;
 }
@@ -15,6 +13,8 @@ body{
 a{color : yellow;}
 nav{
 	color: white;
+	top: 0px;
+	left: 0px;
 }
 img{
 	width: 100%;
