@@ -3,7 +3,7 @@ header{
 	top: 0px;
 	left: 0px;
 	background-color: transparent;
-	width: 8%;
+	width: 5%;
 }
 body{
 	width: 80%;
@@ -15,9 +15,6 @@ body{
 a{color : yellow;}
 nav{
 	color: white;
-	position: fixed;
-	top: 0px;
-	left: 0px;
 }
 img{
 	width: 100%;
