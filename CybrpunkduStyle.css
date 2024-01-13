@@ -1,9 +1,9 @@
 header{
 	position: fixed;
 	top: 0px;
-	left: 0px;
+	left: 5px;
 	background-color: transparent;
-	width: 5%;
+	width: 8%;
 }
 body{
 	width: 80%;
